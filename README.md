@@ -11,5 +11,5 @@
   - Store User Input:
   - Create a variable to store the user input from the Input Dialog.
   - Assign the output of the Input Dialog to this variable.
-Step: 3
+- Step: 3
   - Add Message box to display a Welcome message
